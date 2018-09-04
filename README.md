@@ -9,7 +9,7 @@ This is the cheatsheet on how to use CSS. In here you will find:
 
 Remember! The most authoritative documentation on web technology and CSS is the Mozilla Documentation. For a full [CSS Reference, click here](https://developer.mozilla.org/en-US/docs/Web/CSS/Reference)
 
-Want to learn HTML & CSS? [here's an awesome video course](https://ilovecoding.org/courses/htmlcsss)
+Want to learn HTML & CSS? [here's an awesome video course](https://ilovecoding.org/courses/htmlcss2)
 
 ## I present to you - The CSS Cheatsheet 💪
 [![css Cheatsheet](css-cheatsheet.jpg)](css-cheatsheet.pdf)

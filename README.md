@@ -19,3 +19,8 @@ Download [PDF](css-cheatsheet.pdf) or [Image](css-cheatsheet.gif)
 ## ️Want an HTML Cheatsheet as well?
 
 Check out this [HTML Cheatsheet](https://github.com/iLoveCodingOrg/html-cheatsheet)
+
+## Other Cheatsheets:
+
+- [HTML Cheatsheet](https://github.com/iLoveCodingOrg/html-cheatsheet)
+- [JavaScript Cheatsheet](https://github.com/iLoveCodingOrg/javascript-cheatsheet)
